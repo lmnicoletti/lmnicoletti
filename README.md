@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lmnicoletti
+- 👋 Hello, World!
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning how to use GitHub 😊
 - 💞️ I’m looking to collaborate on @republique-et-canton-de-geneve
-- 📫 How to reach me @lmnicoletti
+- 📫 How to reach me: @lmnicoletti
 - 😄 Pronouns: none
 - ⚡ Fun fact: the answer is 42
 
